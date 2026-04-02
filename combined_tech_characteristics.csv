@@ -1,0 +1,204 @@
+Technology Name,Material Use Numerical,Final Material Use,Year of Invention,Year of First Embodiment of Tech,FirstCommercialYr,Need for Customization,Complexity,Type of Adopter,Granularity Numerical,Granularity,Average lifetime,Technology Lifetime,Strict replacement,Broad replacement,Feedstock,Category Type,Patent Category Name
+Acrylic Fiber,1.321877065,High Material Use,1948,,1950,Mass-customized [2],Complex [3],Firms [1],43000000,Low,,Decades,Yes,Yes,,Chemicals and Industrial,Textiles; Paper
+Acrylonitrile,0.793650794,Medium Material Use,1893,,1930,Mass-customized [2],Complex [3],Firms [1],15050000,Low,30,Decades,No,Yes,,Chemicals and Industrial,Chemistry; Metallurgy
+Air-Source Heat Pumps,0.014897959,Medium Material Use,,,1938,Standardized [1],Simple [1],Individuals [2],9800,Medium,15,Years,Yes,Yes,,Appliances,Mechanical Engineering; Lighting; Heating; Weapons; Blasting
+All Biofuels,,Medium Material Use,n/d,,n/d,Mass-Customized [2],Complex [3],Firms [1],,Low,3,Years,No,No,Yes,Energy Supply,General Tagging of New Technological Developments; General Tagging of Cross-Sectional Technologies Spanning over Several Sections of the IPC; Technical Subjects Covered by Former USPC Cross-Reference Art Collections [XRACs] and Digests
+Amazon Prime Users,,,,,2005,Standardized [1],Design-Intensive [2],Individuals [2],139,High,,,Yes,Yes,,Digitalization,Physics
+Ammonia Synthesis,0.670196368,Medium Material Use,,,1913,Mass-customized [2],Complex [3],Firms [1],1122506000,Low,50,Decades,No,No,Yes,Food and Health,Chemistry; Metallurgy
+Aniline,0.032399429,Low Material Use,1826,,1856,Mass-customized [2],Complex [3],Firms [1],4300000,Low,30,Decades,No,No,,Chemicals and Industrial,Chemistry; Metallurgy
+Aquaculture Production,0.607902736,Medium Material Use,n/d,n/d,1950,Customized [3],Design-Intensive [2],Firms [1],,Low,,,No,Yes,No,Sea and Water,Human Necessities
+Automatic Transmission,,Medium Material Use,1904,,1938,Standardized [1],Design-Intensive [2],Both [3],865.83,High,15,Years,Yes,Yes,,Transportation,Performing Operations; Transporting
+BCG Vaccine,0.000366972,Low Material Use,1921,,1927,Standardized [1],Simple [1],Individuals [2],2.5,High,2,Months,No,No,No,Food and Health,Human Necessities
+Beer Production,0.156463688,Medium Material Use,,,n/d,Mass-customized [2],Design-Intensive [2],Individuals [2],Expensive,Low,14,Years,No,No,No,Food and Health,Human Necessities
+Benzene,1.749471459,High Material Use,1826,,1849,Mass-customized [2],Complex [3],Firms [1],1820000000,Low,30,Decades,No,No,,Chemicals and Industrial,Chemistry; Metallurgy
+Bicycles,0.121849703,Medium Material Use,1818,n/d,1861,Standardized [1],Simple [1],Individuals [2],584.3026416,High,10,Years,No,Yes,,Transportation,Performing Operations; Transporting
+Biogas,,Medium Material Use,,1897,1930,Mass-customized [2],Complex [3],Firms [1],Expensive,Low,20,Years,No,No,Yes,Energy Supply,General Tagging of New Technological Developments; General Tagging of Cross-Sectional Technologies Spanning over Several Sections of the IPC; Technical Subjects Covered by Former USPC Cross-Reference Art Collections [XRACs] and Digests
+BisphenolA,0.545553737,Medium Material Use,1891,,1950,Mass-customized [2],Complex [3],Firms [1],4300000,Low,30,Decades,No,No,,Chemicals and Industrial,Chemistry; Metallurgy
+Cable TV,,Low Material Use,1936,,1948,Standardized [1],Simple [1],Individuals [2],1232.262883,Medium,15,Years,Yes,Yes,,Appliances,Human Necessities
+Cadmium Refining,0.457875458,Medium Material Use,1817,,1880,Mass-customized [2],Complex [3],Firms [1],Expensive,Low,,Decades,No,No,No,Materials,Fixed Constructions
+Canals,,High Material Use,n/d,,n/d,Customized [3],Complex [3],Firms [1],1460317460,Low,,,No,No,,Transportation,Fixed Constructions
+Cane Sugar,0.028519189,Low Material Use,n/d,,n/d,Customized [3],Design-Intensive [2],Firms [1],Expensive,Low,,Decades,No,Yes,No,Food and Health,Human Necessities
+Caprolactam,0.456186768,Medium Material Use,,,1939,Mass-customized [2],Complex [3],Firms [1],34400000,Low,30,Decades,No,No,,Chemicals and Industrial,Chemistry; Metallurgy
+Capture Fisheries,1.063829787,High Material Use,n/d,n/d,1881,Mass-customized [2],Design-Intensive [2],Firms [1],,Low,,Decades,No,No,No,Sea and Water,Human Necessities
+Carbon Capture and Sequestration,,High Material Use,,,1996,Mass-customized [2],Complex [3],Firms [1],170000000,Low,35,Decades,No,No,,Energy Supply,General Tagging of New Technological Developments; General Tagging of Cross-Sectional Technologies Spanning over Several Sections of the IPC; Technical Subjects Covered by Former USPC Cross-Reference Art Collections [XRACs] and Digests
+Caustic Soda,2.314814815,High Material Use,1853,,1892,Customized [3],Complex [3],Firms [1],138105000,Low,30,Decades,No,No,Yes,Chemicals and Industrial,Chemistry; Metallurgy
+Cellphones,0.00075463,Low Material Use,1973,,1977,Standardized [1],Design-Intensive [2],Individuals [2],67.86933362,High,3,Years,Yes,Yes,No,Appliances,Electricity
+Cement,8.814467548,High Material Use,1824,,1828,Mass-customized [2],Complex [3],Firms [1],Expensive,Low,35,Decades,No,No,,Materials,Chemistry; Metallurgy
+Central Heating,,Medium Material Use,1805,,1821,Mass-Customized [2],Design-Intensive [2],Individuals [2],,Medium,20,Years,Yes,Yes,,Appliances,Human Necessities
+Coal Power,1.526939488,High Material Use,1842,1878,1884,Mass-customized [2],Complex [3],Firms [1],968444351.2,Low,40,Decades,No,Yes,Yes,Energy Supply,Chemistry; Metallurgy
+Coal Production,1.526939488,High Material Use,1842,1878,1884,Mass-customized [2],Complex [3],Firms [1],968444351.2,Low,40,Decades,No,Yes,No,Energy Supply,Chemistry; Metallurgy
+Cobalt,0.039762064,Low Material Use,1735,,1924,Customized [3],Complex [3],Firms [1],Expensive,Low,,Decades,No,No,No,Materials,Fixed Constructions
+Compact Fluorescent Light Bulbs,0.004684882,Low Material Use,1972,,1980,Standardized [1],Simple [1],Both [3],3.081980686,High,5,Years,Yes,Yes,,Appliances,Mechanical Engineering; Lighting; Heating; Weapons; Blasting
+Computing Growth,0.000620145,Low Material Use,,1890,1951,Standardized [1],Complex [3],Both [3],Expensive,Low,,Years,No,No,,Digitalization,Physics
+Copper|Mining,0.155774887,Medium Material Use,,,1750,Customized [3],Complex [3],Firms [1],Expensive,Low,38,Decades,No,No,No,Materials,Fixed Constructions
+Copper|Refining,0.155356699,Medium Material Use,,,1750,Customized [3],Complex [3],Firms [1],Expensive,Low,,Decades,No,No,No,Materials,Fixed Constructions
+Crop Harvester,0.065502183,Low Material Use,,,1835,Standardized [1],Design-Intensive [2],Both [3],114500,Medium,,Years,No,Yes,Yes,Food and Health,Human Necessities
+Crude Oil,2.188692115,High Material Use,,1848,1854,Customized [3],Complex [3],Firms [1],Expensive,Low,22.5,Decades,No,Yes,No,Energy Supply,Chemistry; Metallurgy
+Cyclohexane,1.02145046,High Material Use,1894,,1940,Mass-customized [2],Complex [3],Firms [1],2150000,Low,30,Decades,No,No,,Chemicals and Industrial,Chemistry; Metallurgy
+Desalination Capacity,1557.363577,High Material Use,n/d,n/d,n/d,Mass-customized [2],Design-Intensive [2],Firms [1],74000000,Low,27.5,Decades,No,No,,Sea and Water,Chemistry; Metallurgy
+Dishwashers,0.069630351,Low Material Use,1850,,1929,Standardized [1],Simple [1],Both [3],675.9801712,High,12,Years,No,Yes,,Appliances,Human Necessities
+Disk Brakes,,,1890,1902,1956,Standardized [1],Simple [1],Both [3],,High,8,Years,Yes,Yes,,Transportation,Performing Operations; Transporting
+DTP1 Vaccine,2.85E-05,Low Material Use,1914,,1949,Standardized [1],Simple [1],Individuals [2],24.3565,High,1.5,Months,No,No,No,Food and Health,Human Necessities
+DTP3 Vaccine,2.85E-05,Low Material Use,1914,,1949,Standardized [1],Simple [1],Individuals [2],2.43565,High,1.5,Months,No,No,No,Food and Health,Human Necessities
+Ebook Reader,0.002194664,Low Material Use,,,1992,Standardized [1],Simple [1],Individuals [2],653.69,High,,Years,Yes,Yes,,Digitalization,Physics
+Electric Bicycles,0.041736764,Low Material Use,1897,1891,n/d,Standardized [1],Simple [1],Individuals [2],306.215893,High,5,Years,Yes,Yes,,Transportation,Performing Operations; Transporting
+Electric Range,0.201596444,Medium Material Use,1859,,1918,Standardized [1],Simple [1],Individuals [2],1778.4,Medium,14,Years,Yes,Yes,,Appliances,Human Necessities
+Electricity,,Medium Material Use,,,1882,Customized [3],Complex [3],Both [3],,Low,27.5,Decades,No,No,Yes,Energy Supply,Chemistry; Metallurgy
+Electronic Ignition,,,1948,,1963,Standardized [1],Simple [1],Both [3],731.88,Medium,10,Years,Yes,Yes,,Transportation,Performing Operations; Transporting
+Ethanol,1.890166028,High Material Use,,,n/d,Mass-customized [2],Design-Intensive [2],Firms [1],8600000,Low,45,Decades,No,Yes,,Food and Health,Chemistry; Metallurgy
+Ethanolamine,7.30994152,High Material Use,,,1945,Mass-customized [2],Complex [3],Firms [1],4300000,Low,30,Decades,No,No,,Chemicals and Industrial,Chemistry; Metallurgy
+Ethylene,3.968253968,High Material Use,,,n/d,Mass-customized [2],Complex [3],Firms [1],32250000,Low,30,Decades,No,No,,Chemicals and Industrial,Chemistry; Metallurgy
+Ethylene Glycol,1.323870659,High Material Use,1856,,1925,Mass-customized [2],Complex [3],Firms [1],25800000,Low,30,Decades,No,No,,Chemicals and Industrial,Chemistry; Metallurgy
+Flow Battery Storage,1.143764584,High Material Use,,1986,2001,Standardized [1],Design-Intensive [2],Firms [1],9309000,Low,10,Years,No,No,,Storage Technology,Electricity
+Fluid Catalytic Cracking Refineries,0,High Material Use,1913,1915,1942,Mass-customized [2],Complex [3],Firms [1],1928020566,Low,30,Decades,No,No,,Energy Supply,Chemistry; Metallurgy
+Flush Toilet,,,1775,,1840,Standardized [1],Simple [1],Individuals [2],341.32,High,5,Years,Yes,Yes,,Appliances,Human Necessities
+Flywheel Battery Storage,0.001799968,Low Material Use,1883,,2011,Standardized [1],Design-Intensive [2],Firms [1],535521120,Low,20,Years,No,No,No,Storage Technology,Electricity
+Formaldehyde,0.019659847,Low Material Use,1859,,1880,Mass-customized [2],Complex [3],Firms [1],4300000,Low,30,Decades,No,No,,Chemicals and Industrial,Chemistry; Metallurgy
+Freezer,0.198396501,Medium Material Use,,,1940,Standardized [1],Simple [1],Both [3],4081.6075,Medium,21,Decades,Yes,Yes,,Appliances,Human Necessities
+Geothermal Energy,0,Medium Material Use,,,1913,Mass-customized [2],Design-Intensive [2],Both [3],74000000,Low,30,Decades,No,No,No,Energy Supply,General Tagging of New Technological Developments; General Tagging of Cross-Sectional Technologies Spanning over Several Sections of the IPC; Technical Subjects Covered by Former USPC Cross-Reference Art Collections [XRACs] and Digests
+Gold,2.16E-05,Low Material Use,,,1851,Customized [3],Complex [3],Firms [1],Expensive,Low,20,Years,No,No,No,Materials,Fixed Constructions
+Graphite,0.790284766,Medium Material Use,,,1897,Customized [3],Complex [3],Firms [1],Expensive,Low,,Decades,No,No,,Materials,Fixed Constructions
+Heat Thermal Battery Storage,,Medium Material Use,,,n/d,Mass-Customized [2],Design-Intensive [2],Firms [1],266.75,Low,17.5,Years,No,No,,Storage Technology,Electricity
+HEPB3 Vaccine,4.66E-05,Low Material Use,1965,,1986,Standardized [1],Simple [1],Individuals [2],14.917,High,3,Years,No,No,No,Food and Health,Human Necessities
+HEPBB Vaccine,4.66E-05,Low Material Use,1965,,1986,Standardized [1],Simple [1],Individuals [2],14.917,High,3,Years,No,No,No,Food and Health,Human Necessities
+Herbicide-Tolerant Corn,5.494980962,High Material Use,,,1997,Standardized [1],Simple [1],Firms [1],6.42,High,1,Months,Yes,Yes,,Food and Health,Human Necessities
+Herbicide-Tolerant Cotton,0.750750751,Medium Material Use,,,1997,Standardized [1],Simple [1],Firms [1],1.85,High,1,Months,Yes,Yes,,Food and Health,Human Necessities
+Herbicide-Tolerant Soybeans,2.49007283,High Material Use,,,1997,Standardized [1],Simple [1],Firms [1],15.18,High,1,Months,Yes,Yes,,Food and Health,Human Necessities
+HIB3 Vaccine,5.60E-05,Low Material Use,,,1987,Standardized [1],Simple [1],Individuals [2],12.40133333,High,3,Years,No,No,No,Food and Health,Human Necessities
+High-Density Polyethylene,1.329857879,High Material Use,,,1954,Mass-customized [2],Complex [3],Firms [1],47300000,Low,30,Decades,No,No,,Chemicals and Industrial,Chemistry; Metallurgy
+High Speed Rail,0.02240153,Low Material Use,,,1964,Customized [3],Complex [3],Firms [1],555555555.6,Low,55,Decades,Yes,Yes,,Infrastructure,Fixed Constructions
+Home Air Conditioning,0.093543805,Low Material Use,1922,,1932,Standardized [1],Simple [1],Both [3],141100,Medium,18,Years,No,No,,Appliances,Human Necessities
+Home Computers,,Low Material Use,,,1977,Standardized [1],Design-Intensive [2],Individuals [2],3771.837876,Medium,5,Years,No,No,,Digitalization,Physics
+Household Internet Access,,,,,n/d,Standardized [1],Simple [1],Individuals [2],,Medium,,Decades,No,No,,Digitalization,Physics
+Households With Only Mobile Phones (No Landlines),,Low Material Use,1973,,1977,Standardized [1],Design-Intensive [2],Individuals [2],,High,5,Years,Yes,Yes,,Digitalization,Physics
+Hydrochloric Acid,13.48435814,High Material Use,,1888,1892,Customized [3],Complex [3],Firms [1],917260282.5,Low,30,Decades,No,No,Yes,Chemicals and Industrial,Chemistry; Metallurgy
+Hydrochloric Acid,13.48435814,High Material Use,,1888,1892,Customized [3],Complex [3],Firms [1],917260282.5,Low,30,Decades,No,No,Yes,Chemicals and Industrial,Chemistry; Metallurgy
+Hydroelectricity,,Medium Material Use,1849,1878,1882,Customized [3],Complex [3],Firms [1],124158017.9,Low,50,Decades,No,No,No,Energy Supply,General Tagging of New Technological Developments; General Tagging of Cross-Sectional Technologies Spanning over Several Sections of the IPC; Technical Subjects Covered by Former USPC Cross-Reference Art Collections [XRACs] and Digests
+Hydrofluoric Acid,0.004309008,Low Material Use,,,n/d,Mass-customized [2],Complex [3],Firms [1],6450000,Low,30,Decades,No,No,,Chemicals and Industrial,Chemistry; Metallurgy
+Insect-Resistant Corn,5.494980962,High Material Use,,,1995,Standardized [1],Simple [1],Firms [1],6.42,High,1,Months,Yes,Yes,,Food and Health,Human Necessities
+Insect-Resistant Cotton,0.750750751,Medium Material Use,,,1995,Standardized [1],Simple [1],Firms [1],1.85,High,1,Months,Yes,Yes,,Food and Health,Human Necessities
+Internet Backbone Bandwidth,,Medium Material Use,1969,,1973,Standardized [1],Complex [3],Both [3],77990000,Low,,Years,No,No,,Digitalization,Physics
+Internet Traffic,,Medium Material Use,,,1984,Standardized [1],Complex [3],Both [3],77990000,Low,,Years,No,No,,Digitalization,Physics
+IPV1 Vaccine,4.35E-05,Low Material Use,1953,1955,1955,Standardized [1],Simple [1],Individuals [2],15.98,High,1.5,Months,No,No,,Food and Health,Human Necessities
+Iron,0.066988819,Low Material Use,1904,,1912,Standardized [1],Simple [1],Individuals [2],18.95,High,6,Years,Yes,Yes,,Appliances,Mechanical Engineering; Lighting; Heating; Weapons; Blasting
+Iron Ore,11.45003206,High Material Use,,,1855,Customized [3],Complex [3],Firms [1],Expensive,Low,15,Years,No,No,No,Materials,Fixed Constructions
+Jet Aircraft,0.000525161,Low Material Use,1928,,1952,Standardized [1],Complex [3],Firms [1],65189048.24,Low,25,Decades,No,Yes,,Transportation,Performing Operations; Transporting
+Latent Heat Storage,0.008043758,Low Material Use,,,1991,Mass-customized [2],Design-Intensive [2],Firms [1],1809825,Low,10,Years,No,No,No,Storage Technology,Electricity
+Laundry Dryers,0.102215697,Medium Material Use,,,n/d,Standardized [1],Simple [1],Individuals [2],656.8974229,High,14,Years,No,Yes,,Appliances,Textiles; Paper
+Lead,0.553452436,Medium Material Use,,,1844,Customized [3],Complex [3],Firms [1],Expensive,Low,20,Years,No,No,No,Materials,Fixed Constructions
+Lead-Acid Battery Storage,0.343784378,Medium Material Use,1859,1860,1997,Standardized [1],Simple [1],Both [3],207.6,High,7.5,Years,No,No,No,Storage Technology,Electricity
+Liquefied Natural Gas,2.471332543,High Material Use,,1917,1941,Customized [3],Complex [3],Firms [1],54000000000,Low,30,Decades,No,Yes,,Energy Supply,Chemistry; Metallurgy
+Liquid Biofuels,0.82387495,Medium Material Use,,1979,1989,Mass-customized [2],Complex [3],Firms [1],Expensive,Low,,Decades,No,Yes,Yes,Energy Supply,General Tagging of New Technological Developments; General Tagging of Cross-Sectional Technologies Spanning over Several Sections of the IPC; Technical Subjects Covered by Former USPC Cross-Reference Art Collections [XRACs] and Digests
+Lithium Mine Production,0.044414835,Low Material Use,,,1898,Customized [3],Complex [3],Firms [1],Expensive,Low,,Decades,No,No,No,Materials,Fixed Constructions
+Lithium-Ion Battery Storage,0.185492802,Medium Material Use,1976,,1991,Standardized [1],Simple [1],Both [3],230500,Medium,10,Years,No,No,No,Storage Technology,Electricity
+Low-Density Polyethylene,1.246819986,High Material Use,1937,,1939,Mass-customized [2],Complex [3],Firms [1],30100000,Low,30,Decades,No,No,,Chemicals and Industrial,Chemistry; Metallurgy
+Magnetic Data Storage,0.009449833,Low Material Use,1928,,1957,Standardized [1],Simple [1],Both [3],2998.8,Medium,,Years,No,Yes,,Digitalization,Physics
+Maleic Anhydride,0.567131783,Medium Material Use,1908,,1928,Mass-customized [2],Complex [3],Firms [1],21500000,Low,30,Decades,No,No,,Chemicals and Industrial,Chemistry; Metallurgy
+Marine Energy,0.026428294,Low Material Use,,1910,1965,Customized [3],Design-Intensive [2],Firms [1],6000000,Low,15,Years,No,No,No,Energy Supply,General Tagging of New Technological Developments; General Tagging of Cross-Sectional Technologies Spanning over Several Sections of the IPC; Technical Subjects Covered by Former USPC Cross-Reference Art Collections [XRACs] and Digests
+MCV1 Vaccine,2.78E-05,Low Material Use,,,1963,Standardized [1],Simple [1],Individuals [2],24.9625,High,2,Months,No,No,No,Food and Health,Human Necessities
+MCV2 Vaccine,2.78E-05,Low Material Use,,,1963,Standardized [1],Simple [1],Individuals [2],24.9625,High,2,Months,No,No,No,Food and Health,Human Necessities
+Methanol,4.070883547,High Material Use,,,1923,Mass-customized [2],Complex [3],Firms [1],19350000,Low,30,Decades,Yes,Yes,,Chemicals and Industrial,Chemistry; Metallurgy
+Microcomputers,,,,,1973,Standardized [1],Design-Intensive [2],Individuals [2],3771.837876,Medium,,Years,No,Yes,,Digitalization,Physics
+Microprocessor Clock Speed,0.000550926,Low Material Use,,,1971,Standardized [1],Complex [3],Both [3],Cheap,High,,Years,Yes,Yes,,Digitalization,Physics
+Microwaves,0.128564399,Medium Material Use,,1933,1955,Standardized [1],Simple [1],Individuals [2],1082.897685,Medium,7,Years,Yes,Yes,,Appliances,Human Necessities
+Milk Production,1.28968254,High Material Use,,,n/d,Customized [3],Complex [3],Both [3],Expensive,Low,,Decades,No,No,No,Food and Health,Human Necessities
+Milk Production,1.28968254,High Material Use,,,n/d,Customized [3],Complex [3],Both [3],Expensive,Low,,Years,No,No,No,Food and Health,Human Necessities
+Milk Production,1.28968254,High Material Use,,,n/d,Customized [3],Complex [3],Both [3],Expensive,Low,,Decades,No,No,No,Food and Health,Human Necessities
+Milk Production,1.28968254,High Material Use,,,n/d,Customized [3],Complex [3],Both [3],Expensive,Low,,Years,No,No,No,Food and Health,Human Necessities
+Milk Production,1.28968254,High Material Use,,,n/d,Customized [3],Complex [3],Both [3],Expensive,Low,,Decades,No,No,No,Food and Health,Human Necessities
+Milk Production,1.28968254,High Material Use,,,n/d,Customized [3],Complex [3],Both [3],Expensive,Low,,Years,No,No,No,Food and Health,Human Necessities
+Milk Production,1.28968254,High Material Use,,,n/d,Customized [3],Complex [3],Both [3],Expensive,Low,,Decades,No,No,No,Food and Health,Human Necessities
+Milk Production,1.28968254,High Material Use,,,n/d,Customized [3],Complex [3],Both [3],Expensive,Low,,Years,No,No,No,Food and Health,Human Necessities
+Motor Gasoline,1.667982258,High Material Use,,1848,1854,Mass-customized [2],Complex [3],Both [3],Expensive,Low,30,Decades,No,No,,Energy Supply,Chemistry; Metallurgy
+Motorcycles,0.097998272,Low Material Use,1885,1885,1894,Standardized [1],Design-Intensive [2],Individuals [2],3826.232247,Medium,15,Years,No,Yes,,Transportation,Performing Operations; Transporting
+Natural Gas Pipelines,0.049512657,Low Material Use,,,1872,Customized [3],Simple [1],Firms [1],1.59E+11,Low,50,Decades,No,Yes,,Infrastructure,Mechanical Engineering; Lighting; Heating; Weapons; Blasting
+Natural Gas Power,681.3475976,High Material Use,1842,,1884,Mass-customized [2],Complex [3],Firms [1],226879159.8,Low,30,Decades,No,No,,Energy Supply,Chemistry; Metallurgy
+Natural Gas Production,681.3475976,High Material Use,1842,,1884,Mass-customized [2],Complex [3],Firms [1],226879159.8,Low,30,Decades,No,No,No,Energy Supply,Chemistry; Metallurgy
+Neoprene Rubber,0.802825947,Medium Material Use,1930,,1933,Mass-customized [2],Complex [3],Firms [1],107500000,Low,30,Decades,No,Yes,,Chemicals and Industrial,Chemistry; Metallurgy
+Nickel Production,0.053762053,Low Material Use,,,1880,Customized [3],Design-Intensive [2],Firms [1],1584000000,Low,21,Decades,No,No,No,Materials,Fixed Constructions
+Nitric Acid,2.34375,High Material Use,,,1905,Customized [3],Complex [3],Firms [1],181944000,Low,30,Decades,No,No,Yes,Chemicals and Industrial,Chemistry; Metallurgy
+Nitrogen Fertilizer,1.459433719,High Material Use,,,1913,Mass-customized [2],Complex [3],Firms [1],Expensive,Low,1,Months,No,No,Yes,Food and Health,Chemistry; Metallurgy
+Nox Pollution Controls (Boilers),,,,,n/d,Mass-Customized [2],Design-Intensive [2],Firms [1],Medium,Medium,,Decades,No,No,,Energy Supply,General Tagging of New Technological Developments; General Tagging of Cross-Sectional Technologies Spanning over Several Sections of the IPC; Technical Subjects Covered by Former USPC Cross-Reference Art Collections [XRACs] and Digests
+Nuclear Energy,,High Material Use,1943,1951,1954,Customized [3],Complex [3],Firms [1],2327131358,Low,40,Decades,No,No,Yes,Energy Supply,General Tagging of New Technological Developments; General Tagging of Cross-Sectional Technologies Spanning over Several Sections of the IPC; Technical Subjects Covered by Former USPC Cross-Reference Art Collections [XRACs] and Digests
+Nuclear Weapons,3.90E-05,Medium Material Use,,,1945,Customized [3],Complex [3],Firms [1],28000000,Low,25,Decades,No,No,Yes,Space and Defense,Mechanical Engineering; Lighting; Heating; Weapons; Blasting
+Offshore Wind Energy,0.225774226,Medium Material Use,,,1991,Mass-customized [2],Design-Intensive [2],Firms [1],9000000,Low,25,Decades,No,No,No,Energy Supply,General Tagging of New Technological Developments; General Tagging of Cross-Sectional Technologies Spanning over Several Sections of the IPC; Technical Subjects Covered by Former USPC Cross-Reference Art Collections [XRACs] and Digests
+Oil Pipelines,0.049512657,Low Material Use,,1863,1865,Customized [3],Simple [1],Firms [1],9628297362,Low,50,Decades,No,Yes,,Infrastructure,Mechanical Engineering; Lighting; Heating; Weapons; Blasting
+Oil Production,2.188692115,High Material Use,,,1856,Mass-customized [2],Complex [3],Firms [1],Expensive,Low,22.5,Decades,No,No,No,Energy Supply,Chemistry; Metallurgy
+Oil Refining Capacity,2.188692115,High Material Use,,,1856,Mass-customized [2],Complex [3],Firms [1],1928020566,Low,30,Decades,No,No,No,Energy Supply,Chemistry; Metallurgy
+Onshore Wind Energy,0.203025422,Medium Material Use,,,1887,Mass-customized [2],Design-Intensive [2],Firms [1],4828242.2,Low,25,Decades,No,No,No,Energy Supply,General Tagging of New Technological Developments; General Tagging of Cross-Sectional Technologies Spanning over Several Sections of the IPC; Technical Subjects Covered by Former USPC Cross-Reference Art Collections [XRACs] and Digests
+Paraxylene,1.274134831,High Material Use,,,n/d,Mass-customized [2],Complex [3],Firms [1],Expensive,Low,30,Decades,No,No,,Chemicals and Industrial,Chemistry; Metallurgy
+PCV3 Vaccine,5.39E-06,Low Material Use,,,2000,Standardized [1],Simple [1],Individuals [2],128.75,High,1.5,Months,No,No,No,Food and Health,Human Necessities
+Pentaerythritol,0.62305296,Medium Material Use,1894,,1912,Mass-customized [2],Complex [3],Firms [1],45650000,Low,30,Decades,No,No,,Chemicals and Industrial,Chemistry; Metallurgy
+Phenol,0.996401595,Medium Material Use,,,n/d,Mass-customized [2],Design-Intensive [2],Firms [1],19350000,Low,30,Decades,No,No,,Chemicals and Industrial,Chemistry; Metallurgy
+Phosphate Fertilizer,1.34997619,High Material Use,,,1843,Mass-customized [2],Design-Intensive [2],Firms [1],Expensive,Low,1,Months,No,No,No,Food and Health,Chemistry; Metallurgy
+Phthalic Anhydride,0.967360334,Medium Material Use,,,n/d,Mass-customized [2],Design-Intensive [2],Firms [1],10750000,Low,30,Decades,No,No,,Chemicals and Industrial,Chemistry; Metallurgy
+Podcasting,,,,,2005,Standardized [1],Simple [1],Individuals [2],,High,,,No,Yes,,Digitalization,Physics
+POL3 Vaccine,4.35E-05,Low Material Use,1953,,1955,Standardized [1],Simple [1],Individuals [2],15.98,High,1,Months,No,No,No,Food and Health,Human Necessities
+Polyester Fiber,1.55E-08,Low Material Use,,,1940,Mass-customized [2],Complex [3],Firms [1],64500000,Low,30,Decades,Yes,Yes,,Chemicals and Industrial,Textiles; Paper
+Polystyrene,0.479484144,Medium Material Use,,,1929,Mass-customized [2],Design-Intensive [2],Firms [1],Expensive,Low,30,Decades,No,No,,Chemicals and Industrial,Chemistry; Metallurgy
+Polyvinylchloride,0.896274188,Medium Material Use,1913,,1926,Mass-customized [2],Design-Intensive [2],Firms [1],1190000000,Low,30,Decades,No,No,,Chemicals and Industrial,Chemistry; Metallurgy
+Postal Traffic,,Medium Material Use,,,1830,Customized [3],Complex [3],Both [3],Expensive,Low,,Years,No,No,Yes,Infrastructure,Performing Operations; Transporting
+Potash Fertilizer,3.461481227,High Material Use,,1843,1861,Customized [3],Complex [3],Firms [1],Expensive,Low,1,Months,No,No,No,Food and Health,Chemistry; Metallurgy
+Power Steering,,,1900,1926,1951,Standardized [1],Design-Intensive [2],Both [3],1405.38,Medium,5,Years,Yes,Yes,,Transportation,Performing Operations; Transporting
+Primary Aluminum Production,0.523899861,Medium Material Use,,,1888,Mass-customized [2],Complex [3],Firms [1],478200000,Low,,Decades,No,No,Yes,Materials,Fixed Constructions
+Primary Bauxite Production,26.50410814,High Material Use,,1860,1888,Customized [3],Complex [3],Firms [1],57500000,Low,72,Decades,No,No,No,Materials,Fixed Constructions
+Primary Copper,0.155356699,Medium Material Use,,,n/d,Mass-customized [2],Complex [3],Firms [1],Expensive,Low,,Decades,No,No,,Materials,Fixed Constructions
+Primary Magnesium,0.539081233,Medium Material Use,,,1886,Customized [3],Complex [3],Firms [1],359200000,Low,,Decades,No,No,,Chemicals and Industrial,Chemistry; Metallurgy
+Processor Performance,0.233668606,Medium Material Use,,,1971,Standardized [1],Design-Intensive [2],Both [3],Cheap,High,,Years,No,No,,Digitalization,Physics
+Public Roads,2.391027776,High Material Use,,,n/d,Customized [3],Simple [1],Firms [1],3310989,Low,10,Years,No,No,,Infrastructure,Fixed Constructions
+Pumped Hydro Storage,0,Medium Material Use,,,1907,Customized [3],Simple [1],Firms [1],2976000000,Low,40,Decades,No,No,No,Storage Technology,Electricity
+Radial Tires,,,,,1948,Standardized [1],Simple [1],Both [3],Cheap,High,6,Years,Yes,Yes,,Transportation,Performing Operations; Transporting
+Radio,0.027719511,Low Material Use,1888,1906,1910,Standardized [1],Simple [1],Individuals [2],139.7624039,High,10,Years,No,Yes,No,Appliances,Human Necessities
+Railroad,0.081088492,Low Material Use,,,1825,Customized [3],Design-Intensive [2],Firms [1],29520,Low,55,Decades,No,Yes,Yes,Infrastructure,Fixed Constructions
+Random Access Memory,3.61E-05,Low Material Use,1947,,1970,Standardized [1],Complex [3],Both [3],2998.8,Medium,,Years,No,No,,Digitalization,Physics
+Rare Earth Mine Production,0.00507872,Low Material Use,1700s,1880,1887,Customized [3],Complex [3],Firms [1],Expensive,Low,,Decades,No,No,No,Materials,Fixed Constructions
+Raw Steel Production,0.326797386,Medium Material Use,,,1855,Customized [3],Complex [3],Firms [1],1000000000,Low,40,Decades,No,No,Yes,Materials,Fixed Constructions
+RCV1 Vaccine,2.78E-05,Low Material Use,1965,,1969,Standardized [1],Simple [1],Individuals [2],24.9625,High,2,Months,No,No,No,Food and Health,Human Necessities
+Real-Time Gross Settlement Adoption,,,,,1985,Standardized [1],Simple [1],Individuals [2],,High,,,No,Yes,,Digitalization,Physics
+Refrigerators,0.151722324,Medium Material Use,1913,,1918,Standardized [1],Simple [1],Both [3],8992.805755,Medium,14,Years,Yes,Yes,,Appliances,Mechanical Engineering; Lighting; Heating; Weapons; Blasting
+Renewable Power,,Medium Material Use,,,n/d,Customized [3],Complex [3],Both [3],,Low,27.5,Decades,No,Yes,No,Energy Supply,General Tagging of New Technological Developments; General Tagging of Cross-Sectional Technologies Spanning over Several Sections of the IPC; Technical Subjects Covered by Former USPC Cross-Reference Art Collections [XRACs] and Digests
+ROTAC Vaccine,1.58E-05,Low Material Use,,,2006,Standardized [1],Simple [1],Individuals [2],87.978,High,3,Years,No,No,No,Food and Health,Human Necessities
+Running Water,,,,,n/d,Standardized [1],Design-Intensive [2],Individuals [2],Expensive,Medium,75,Decades,,Yes,,Infrastructure,Performing Operations; Transporting
+Salt Production,19.20122888,High Material Use,,,n/d,Customized [3],Design-Intensive [2],Firms [1],Expensive,Low,,Decades,No,No,No,Materials,Fixed Constructions
+Sand and Gravel|Construction,118.0637544,High Material Use,,,n/d,Standardized [1],Design-Intensive [2],Firms [1],155000,Low,25,Decades,No,No,,Materials,Fixed Constructions
+Sand and Gravel|Industrial,118.0637544,High Material Use,,,n/d,Standardized [1],Design-Intensive [2],Firms [1],155000,Low,25,Decades,No,No,,Materials,Fixed Constructions
+Sensible Heat Storage,2.164502165,High Material Use,,,1982,Customized [3],Simple [1],Firms [1],1313300,Low,20,Years,No,No,No,Storage Technology,Electricity
+Shale Production,1.431578947,High Material Use,,,1830,Mass-customized [2],Complex [3],Firms [1],Expensive,Low,,Decades,No,Yes,,Energy Supply,Chemistry; Metallurgy
+Shotgun Sanger DNA Sequencing,1.86E-22,Low Material Use,1977,,1981,Standardized [1],Complex [3],Firms [1],1500,Medium,,Decades,Yes,Yes,,Food and Health,Chemistry; Metallurgy
+Silver,0.001702779,Low Material Use,,,1874,Customized [3],Complex [3],Firms [1],Expensive,Low,,Decades,No,No,No,Materials,Fixed Constructions
+Silver,0.001702779,Low Material Use,,,1874,Customized [3],Complex [3],Firms [1],Expensive,Low,,Decades,No,No,No,Materials,Fixed Constructions
+Smartphone Usage,,Low Material Use,,,1994,Standardized [1],Design-Intensive [2],Individuals [2],53.28,High,3,Years,Yes,Yes,,Digitalization,Physics
+Social Media Usage,,,,,2003,Mass-Customized [2],Simple [1],Individuals [2],,High,,,No,Yes,,Digitalization,Physics
+Sodium,0.456871345,Medium Material Use,,,n/d,Mass-customized [2],Design-Intensive [2],Firms [1],15050000,Low,30,Decades,No,No,,Chemicals and Industrial,Chemistry; Metallurgy
+Sodium Chlorate,1.749971065,High Material Use,,,n/d,Mass-customized [2],Complex [3],Firms [1],10750000,Low,30,Decades,No,No,,Chemicals and Industrial,Chemistry; Metallurgy
+Sodium-Based Battery Storage,0.028235232,Low Material Use,1976,,1970,Standardized [1],Simple [1],Both [3],20748000,Low,5,Years,No,No,No,Storage Technology,Electricity
+Sodium-Based Battery Storage,0.028235232,Low Material Use,1976,,1970,Standardized [1],Simple [1],Both [3],20748000,Low,5,Years,No,No,No,Storage Technology,Electricity
+Solar Photovoltaic,0.327479604,Medium Material Use,1954,,1957,Standardized [1],Simple [1],Both [3],615.3,High,33,Decades,No,No,No,Energy Supply,General Tagging of New Technological Developments; General Tagging of Cross-Sectional Technologies Spanning over Several Sections of the IPC; Technical Subjects Covered by Former USPC Cross-Reference Art Collections [XRACs] and Digests
+Solar Thermal Energy,0,Medium Material Use,,,1984,Mass-customized [2],Design-Intensive [2],Firms [1],156300000,Low,25,Decades,No,No,No,Energy Supply,General Tagging of New Technological Developments; General Tagging of Cross-Sectional Technologies Spanning over Several Sections of the IPC; Technical Subjects Covered by Former USPC Cross-Reference Art Collections [XRACs] and Digests
+Solar Thermal Energy,0,Medium Material Use,,,1984,Mass-customized [2],Design-Intensive [2],Firms [1],156300000,Low,25,Decades,No,No,No,Energy Supply,General Tagging of New Technological Developments; General Tagging of Cross-Sectional Technologies Spanning over Several Sections of the IPC; Technical Subjects Covered by Former USPC Cross-Reference Art Collections [XRACs] and Digests
+Solid Biofuels,,Medium Material Use,,,n/d,Customized [3],Complex [3],Firms [1],Expensive,Low,25,Decades,No,No,Yes,Energy Supply,General Tagging of New Technological Developments; General Tagging of Cross-Sectional Technologies Spanning over Several Sections of the IPC; Technical Subjects Covered by Former USPC Cross-Reference Art Collections [XRACs] and Digests
+Space Launches,5.18E-05,Low Material Use,,,1957,Customized [3],Complex [3],Firms [1],8593593.5,Low,11,Years,No,No,Yes,Space and Defense,Performing Operations; Transporting
+Space Launches,5.18E-05,Low Material Use,,,1957,Customized [3],Complex [3],Firms [1],8593593.5,Low,11,Years,No,No,Yes,Space and Defense,Performing Operations; Transporting
+Steamships,3.986446951,High Material Use,1707,1776,1807,Standardized [1],Design-Intensive [2],Firms [1],1183350,Low,30,Decades,Yes,Yes,Yes,Transportation,Performing Operations; Transporting
+Stove,0.201596444,Medium Material Use,,,1908,Standardized [1],Simple [1],Individuals [2],Cheap,Medium,14,Years,Yes,Yes,,Appliances,Mechanical Engineering; Lighting; Heating; Weapons; Blasting
+Styrene,1.172072351,High Material Use,1831,,1825,Mass-customized [2],Complex [3],Firms [1],19350000,Low,30,Decades,No,No,,Chemicals and Industrial,Chemistry; Metallurgy
+Submarine Cables,0.023949889,Low Material Use,,,1853,Mass-customized [2],Simple [1],Firms [1],131560000,Low,25,Decades,No,Yes,,Sea and Water,Electricity
+Sulphuric Acid,6.991051454,High Material Use,,,1838,Customized [3],Complex [3],Firms [1],3048700,Low,30,Decades,No,No,Yes,Chemicals and Industrial,Chemistry; Metallurgy
+Synthetic Filaments,0.26848809,Medium Material Use,,,1939,Mass-customized [2],Complex [3],Firms [1],236400000,Low,,Decades,Yes,Yes,Yes,Chemicals and Industrial,Textiles; Paper
+Tablet,0.002696352,Low Material Use,1986,1989,1990,Standardized [1],Design-Intensive [2],Individuals [2],5100,High,5,Years,Yes,Yes,,Digitalization,Physics
+Telegraph Traffic,0.029545188,Low Material Use,1837,1837,1845,Customized [3],Complex [3],Both [3],858000,Low,,Decades,No,Yes,No,Infrastructure,Performing Operations; Transporting
+Telephones,0.002086838,Low Material Use,1876,,1877,Standardized [1],Simple [1],Both [3],1088.64,High,6.5,Years,No,Yes,No,Appliances,Human Necessities
+Television,0.060505183,Low Material Use,,,1936,Standardized [1],Simple [1],Individuals [2],1232.262883,Medium,15,Years,No,Yes,No,Appliances,Human Necessities
+Tin,0.056071413,Low Material Use,,,1910,Customized [3],Complex [3],Firms [1],Expensive,Low,,Decades,No,No,No,Materials,Fixed Constructions
+Titanium Sponge,0.158223842,Medium Material Use,,,1948,Mass-customized [2],Design-Intensive [2],Firms [1],184500000,Low,30,Decades,No,No,,Chemicals and Industrial,Chemistry; Metallurgy
+Transistors per Microprocessor,0.000550926,Low Material Use,,,1971,Standardized [1],Complex [3],Both [3],1,High,,Years,No,Yes,,Digitalization,Physics
+Urea,3.315734649,High Material Use,,,n/d,Mass-customized [2],Complex [3],Firms [1],8600000,Low,30,Decades,No,No,,Chemicals and Industrial,Chemistry; Metallurgy
+Vacuums,0.054949031,Low Material Use,,,1869,Standardized [1],Simple [1],Individuals [2],332.8804348,High,10,Years,No,Yes,,Appliances,Human Necessities
+Videocassette Recorder,0.006829268,Low Material Use,,1963,1965,Standardized [1],Design-Intensive [2],Individuals [2],5670,High,10,Years,No,No,,Appliances,Mechanical Engineering; Lighting; Heating; Weapons; Blasting
+Vinyl Acetate,0.577571023,Medium Material Use,1912,,1924,Mass-customized [2],Complex [3],Firms [1],15050000,Low,30,Decades,No,No,,Chemicals and Industrial,Chemistry; Metallurgy
+Vinyl Chloride,1.59642401,High Material Use,1913,,1927,Mass-customized [2],Design-Intensive [2],Firms [1],19350000,Low,30,Decades,No,No,,Chemicals and Industrial,Chemistry; Metallurgy
+Washing Machines,0.179996825,Medium Material Use,1875,,1908,Standardized [1],Simple [1],Individuals [2],1766.488794,Medium,12,Years,Yes,Yes,,Appliances,Textiles; Paper
+Water Heater,0.047249167,Low Material Use,1868,1889,1906,Standardized [1],Simple [1],Individuals [2],,Medium,9,Years,No,Yes,,Appliances,Human Necessities
+Wet Flue Gas Desulfurization Systems,0,Medium Material Use,,,1931,Mass-customized [2],Design-Intensive [2],Firms [1],2253160800,Low,,Decades,No,No,No,Energy Supply,General Tagging of New Technological Developments; General Tagging of Cross-Sectional Technologies Spanning over Several Sections of the IPC; Technical Subjects Covered by Former USPC Cross-Reference Art Collections [XRACs] and Digests
+YFV Vaccine,4.16E-05,Low Material Use,,,1937,Standardized [1],Simple [1],Individuals [2],16.7,High,3,Years,No,No,No,Food and Health,Human Necessities
+Zinc,0.478927203,Medium Material Use,,,1743,Customized [3],Complex [3],Firms [1],Expensive,Low,,Decades,No,No,No,Materials,Fixed Constructions
